@@ -1,0 +1,5 @@
+1. What is a nested loop? A for loop under another for loop, where the outer loop executes the first item and loops through all the inner loop items, before executing the second item of the outer loop
+2. A "while" loop is based on a conditional statement.
+3. A "for" loop is typically used to iterate a specific number of times.
+4. Yes it is possible. The example was with "sammy"
+5. Yes it is possible for a for loop to be nested under a while loop. As long as the while condition is true, the for loop will execute through the sequence time and again, unless the variable in the condition is modified in the for loop or there is a break.
